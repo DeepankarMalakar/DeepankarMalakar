@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepankarMalakar
-- 👀 I’m interested in Web Development
-- 🌱 Aspiring Web Development
+- 👀 I’m aspiring full stack developer
+- 🌱 interested in development
 - 💞️ I’m looking to collaborate on real life projects .
 
 <!---
