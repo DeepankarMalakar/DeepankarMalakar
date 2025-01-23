@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **Internships and Jobs**
 
-- 📝 I regularly write articles on [Technology i am working on](Technology i am working on)
-
 - 💬 Ask me about **react, js, tailwindcss, html, css, bootstrap, jquery, python**
 
 - 📫 How to reach me **deepankarmalakar007@gmail.com**
